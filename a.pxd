@@ -1,3 +1,3 @@
 cdef class A(object):
-    cdef readonly short x
-    cdef readonly short y
+    cdef readonly int x
+    cdef readonly int y
