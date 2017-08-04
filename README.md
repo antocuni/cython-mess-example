@@ -14,7 +14,6 @@ cdef class A(object):
     cdef readonly int y
 
 $ cythonize -bi a.pyx b.pyx
-homer cython-mess-example $ python try.py
 ...
 
 $ python try.py
