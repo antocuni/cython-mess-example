@@ -3,7 +3,7 @@ under the feet of another module.
 
 Try this:
 
-1. Compile `a.pyx` and `b.pyx` as they are; the fiels of `a.A` are of type
+1. Compile `a.pyx` and `b.pyx` as they are; the fields of `a.A` are of type
    `int`:
    
 
